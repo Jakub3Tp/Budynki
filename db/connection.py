@@ -1,5 +1,5 @@
-from venv import create
 from sqlalchemy import create_engine
+
 user = 'root'
 password = ''
 host = '127.0.0.1'
